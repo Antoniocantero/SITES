@@ -1,0 +1,60 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.livros{
+    width: 617px;
+    height: auto;
+    padding-left: 600px;
+}
+.cabecario{
+    background-color: #648769;
+    height: 514px;
+    display: flex;
+    align-items: center;
+    justify-content: row; 
+    font-size: 50px;
+}
+.nome{
+    color: white;
+    font-size: 80px;
+    margin: 50px;
+}
+footer{
+    background-color: #648769;
+    color: white;
+    height: 200px;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.introducao{
+    font-size: 70px;
+    margin: 100px;
+    background-position: 5px;
+    color: #2A5B31;
+}
+h4{
+    font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
+.blocos{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.img{
+    margin: 100px;
+    height: 154px;
+    width: 166px;
+}
+.funciona, .kit,.enviar{
+    width: 300px;
+    margin: 150px;
+}
