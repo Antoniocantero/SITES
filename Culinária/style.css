@@ -18,6 +18,12 @@ height: 200px;
 .botao1{
     font-size: 25px;
     margin: 15px;
-    padding-left: 1400px;
+
+    
+}
+header{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 60px;
 }
