@@ -15,15 +15,61 @@ height: 200px;
     height: 200px;
     width: 200px;
 }
-.botao1{
+.botao1, .botao2{
     font-size: 25px;
-    margin: 15px;
-
-    
+    margin: 15px;    
 }
 header{
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 60px;
+}
+h2{
+    color: #ECA457;
+    text-align: center;
+    font-size: 40px;
+}
+h4{
+    font-size: 50px;
+}
+p{
+    color: #AFA7A7;
+}
+.img1{
+    height: 850px;
+}
+.pComida{
+    font-size: 30px;
+    text-align: center;
+    margin: 50px;
+    color: black;
+}
+.bloco {
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+.bolo{
+    width: 150px;
+    height: 150px;
+}
+.rosto{
+    height: 150px;
+    align-items: center;
+}
+.perfil{
+    display: flex;
+    margin: 150px;
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+}
+.linha{
+    height: 5px;
+    background-color: #ECA457;
+}
+.frango, .peixe, .pao, .bolo{
+    display: flex;
+    align-items: center;
 }
